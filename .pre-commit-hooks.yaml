@@ -1,0 +1,6 @@
+-   id: unraidplg
+    name: unraidplg
+    description: '`unraidplg` will update the changelog in your unRAID *.plg file and update the MD5 of your *.txz file.'
+    entry: unraidplg
+    language: python
+    types: [python]
