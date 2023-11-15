@@ -1,1 +1,5 @@
-
+-   repo: https://github.com/bobbintb/unRAID_plg_pre-commit_hook
+    rev: 0.0.1
+    hooks:
+    -   id: unraidplg
+        args: [--max-line-length=131]
